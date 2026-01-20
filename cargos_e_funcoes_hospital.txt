@@ -1,0 +1,125 @@
+
+SEPARAÇÃO DE CARGOS E FUNÇÕES – HOSPITAL (PEQUENO, MÉDIO E GRANDE PORTE)
+
+================================
+CARGOS (NÍVEL / VÍNCULO)
+================================
+
+ÁREA DA SAÚDE
+- Médico
+- Médico Residente
+- Médico Plantonista
+- Enfermeiro
+- Técnico de Enfermagem
+- Auxiliar de Enfermagem
+- Biomédico
+- Farmacêutico
+- Fisioterapeuta
+- Nutricionista
+- Psicólogo
+- Assistente Social
+- Técnico em Radiologia
+- Técnico em Laboratório
+- Técnico em Análises Clínicas
+
+ADMINISTRATIVO / APOIO
+- Funcionário Administrativo
+- Técnico Administrativo
+- Analista Administrativo
+- Supervisor
+- Coordenador
+- Gerente
+- Diretor
+- Estagiário
+- Aprendiz
+
+SERVIÇOS GERAIS / OPERACIONAL
+- Funcionário de Serviços Gerais
+- Auxiliar de Serviços Gerais
+- Zelador
+- Maqueiro
+- Porteiro
+- Vigia / Segurança
+
+TECNOLOGIA DA INFORMAÇÃO
+- Técnico de Informática
+- Analista de Sistemas
+- Suporte Técnico
+- Administrador de Sistemas
+- Desenvolvedor
+- Coordenador de TI
+
+================================
+FUNÇÕES (ATIVIDADES EXERCIDAS)
+================================
+
+ASSISTÊNCIA AO PACIENTE
+- Atendimento Médico
+- Atendimento Ambulatorial
+- Atendimento de Emergência
+- Atendimento em UTI
+- Atendimento Pediátrico
+- Atendimento Obstétrico
+- Atendimento Geriátrico
+- Acompanhamento de Pacientes
+- Triagem de Pacientes
+- Administração de Medicamentos
+- Coleta de Sinais Vitais
+- Curativos
+- Banho e Higienização de Pacientes
+
+DIAGNÓSTICO E EXAMES
+- Raio-X
+- Tomografia Computadorizada
+- Ressonância Magnética
+- Ultrassonografia
+- Mamografia
+- Densitometria Óssea
+- Coleta de Material Biológico
+- Análises Clínicas
+- Exames Laboratoriais
+- Eletrocardiograma (ECG)
+- Eletroencefalograma (EEG)
+
+LIMPEZA, APOIO E LOGÍSTICA
+- Limpeza Hospitalar
+- Desinfecção de Ambientes
+- Coleta de Resíduos Hospitalares
+- Lavanderia Hospitalar
+- Higienização de Leitos
+- Transporte de Pacientes
+- Transporte de Materiais
+- Controle de Almoxarifado
+- Controle de Estoque
+- Distribuição de Materiais
+
+ADMINISTRATIVO E GESTÃO
+- Recepção
+- Cadastro de Pacientes
+- Agendamento de Consultas
+- Faturamento Hospitalar
+- Auditoria de Contas Médicas
+- Controle de Convênios
+- Gestão de Escalas
+- Recursos Humanos
+- Compras
+- Licitações
+- Arquivo e Prontuários
+- Ouvidoria
+
+TECNOLOGIA E SISTEMAS
+- Suporte a Usuários
+- Manutenção de Sistemas
+- Administração de Servidores
+- Administração de Redes
+- Segurança da Informação
+- Manutenção de Equipamentos de TI
+- Gestão de Sistemas Hospitalares (HIS)
+
+================================
+OBSERVAÇÃO DE MODELAGEM
+================================
+- Cargo representa o nível, formação ou vínculo.
+- Função representa a atividade exercida.
+- Um cargo pode exercer múltiplas funções.
+- Recomendado relacionamento N:N no banco de dados.

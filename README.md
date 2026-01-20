@@ -9,10 +9,10 @@
 ## Estrutura do Banco de Dados
 
 ### Tabelas
-- Usuários (acesso ao sistema, Admin, Supervisor, Padrão)
-- Setores (Salas e setores como ex: Sala de RaioX, sala de CDI)
 - Cargo (Enfermeiro, Técnico, Médico, Funcionario)
 - Funções (Profissional de RaioX, de Tomografia, Recepção, Administração)
+- Setores (Salas e setores como ex: Sala de RaioX, sala de CDI)
+- Usuários (acesso ao sistema, Admin, Supervisor, Padrão)
 - Equipes (grupo de usuarios de uma determiada sala/setor)
 - Procedimentos (Tipo do atendimento, exame ou consulta)
 - Pacientes (cadastro do paciente)
